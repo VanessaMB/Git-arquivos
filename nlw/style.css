@@ -30,8 +30,8 @@ img {
   --base-color-alt: hsl(var(--hue) 57% 53%);
   --title-color: hsl(var(--hue) 41% 10%);
   --text-color: hsl(0 0% 46%);
-  --text-color-light: hsl(55 50% 88%);
-  --body-color: hsl(46 45% 68%);
+  --text-color-light: hsl(22 20% 50%);
+  --body-color: hsl(60 60% 68%);
 
   /* fonts */
   --title-font-size: 1.875rem;
